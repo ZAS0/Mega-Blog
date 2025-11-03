@@ -1,4 +1,5 @@
-# Mega Blog
+# Mega Blog 
+[![Visit Portfolio](https://img.shields.io/badge/Click%20To%20Visit-%230EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://mega-blog-iota-lime.vercel.app/)
 
 A modern, full-featured blogging platform built with React, Redux, and Appwrite. Create, manage, and share your stories with a beautiful and intuitive interface.
 
